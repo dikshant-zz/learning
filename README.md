@@ -5,3 +5,5 @@
 
 ### Youtube 
 - [o] [Applied ML - Andrea M](https://www.youtube.com/playlist?list=PL_pVmAaAnxIRnSw6wiCpSvshFyCREZmlM)
+### Books 
+- [] 
