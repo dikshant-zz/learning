@@ -7,3 +7,7 @@
 - [o] [Applied ML - Andrea M](https://www.youtube.com/playlist?list=PL_pVmAaAnxIRnSw6wiCpSvshFyCREZmlM)
 ### Books 
 - [] 
+
+### Data Visualization 
+- [o] [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/ecdf-qq.html)
+
