@@ -5,6 +5,7 @@
 
 ### Links 
 - [o] [Amitness](https://github.com/amitness/learning)
+- [o] Vincent Warmerdam (https://koaning.io/)
 
 https://github.com/amitness/learning
 ### Youtube 
